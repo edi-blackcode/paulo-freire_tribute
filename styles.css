@@ -1,0 +1,39 @@
+body {
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(189, 176, 159);
+}
+
+#firstp {
+  text-align: center;
+    justify-content: center;
+}
+
+#title {
+   font-size: 5rem;
+   color: rgb(36, 23, 23);
+   text-align: center;
+}
+
+#image {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+
+#img-caption {
+    margin-left: 100px;
+    justify-content: center;
+    text-align: center;
+}
+
+#tribute-info {
+    justify-content: center;
+    font-size: large;
+    line-height: 1.5;
+}
+
+#tribute-info {
+    padding: 5%;
+    text-align: left;
+}
